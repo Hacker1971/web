@@ -1,0 +1,72 @@
+body{
+    margin: 10px;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: blue;
+}
+.name2{
+    color: goldenrod;
+}
+.salam{
+    color: rgb(0, 255, 128);
+    font-size: 40px;
+}
+.half-wide{
+    width: 50%;
+    font-size: 20px;
+    float: left;
+}
+.half-wide3{
+    width: 40%;
+    font-size: 20px;
+    float: left;
+}
+.half-wide img{
+    width: 80%;
+}
+.half-wide2 img{
+    width: 50%;
+}
+.half-wide2{
+    width: 50%;
+    font-size: 20px;
+    float: left;
+}
+.half-wide2{
+    background-image: url(img1.jpeg);
+    background-repeat: no-repeat;
+    
+}
+
+.top-baner{
+ background-image: url(img1.jpeg);
+ background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-battun{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,white, red);
+    padding: 10px 20px;
+    color: azure;
+    border-radius: 7px;
+    font-weight: 700;
+}
+h2{
+    font-size: 30px;
+}
+#full{
+    border-left: 7px solid;
+}
+.box-shaddow{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 7px;
+    height: 60%;
+
+}
